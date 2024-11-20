@@ -54,4 +54,4 @@ A C++-based digital wallet system for managing financial transactions securely a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mycash.git
+   git clone https://github.com/srshadiq/Assignment/
