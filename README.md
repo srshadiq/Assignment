@@ -2,7 +2,7 @@
 
 A C++-based digital wallet system for managing financial transactions securely and efficiently. Users can register, update profiles, send money, and check balances with advanced features like OTP security.
 
----
+
 
 ## Key Features of the Program
 
@@ -10,7 +10,7 @@ A C++-based digital wallet system for managing financial transactions securely a
 - **Registration**: Users can register with their mobile number, name, and PIN.
 - **Login**: Access is secured by a PIN-based system.
 
----
+
 
 ### File Management:
 - User data is stored in `file.txt`, ensuring persistence across sessions.
@@ -19,19 +19,19 @@ A C++-based digital wallet system for managing financial transactions securely a
   - `FileOut`: Retrieve existing user data.
   - `UpdateFile`: Modify and update data.
 
----
+
 
 ### Account Management:
 - **Update Details**: Modify personal information, including name and PIN.
 - **Account Removal**: Users can delete their accounts after verifying with an OTP.
 
----
+
 
 ### Transactions:
 - **Send Money**: Transfer funds to another registered user securely.
 - **Cash-In and Cash-Out**: Add or withdraw funds from the user's account.
 
----
+
 
 ### OTP Security:
 - A one-time password (OTP) is generated for sensitive operations, including:
@@ -40,7 +40,7 @@ A C++-based digital wallet system for managing financial transactions securely a
   - Cash withdrawals.
 - OTPs are time-limited, providing enhanced security for users.
 
----
+
 
 ### Transaction History:
 - Comprehensive records of all transactions are maintained, including:
@@ -48,7 +48,7 @@ A C++-based digital wallet system for managing financial transactions securely a
   - **Description**: Details of the operation.
   - **Updated Balances**: Reflects changes post-transaction.
 
----
+
 
 ## Installation
 
